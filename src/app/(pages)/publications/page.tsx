@@ -64,7 +64,7 @@ const Publicationpage = () => {
        <li>2014</li>
       </ul>
      </li>
-     <li className="header">Application of Aboav-Weaire's and Lewis' laws and calculation of Self-similarity in weighted planar stochastic lattice.</li>
+     <li className="header">Application of Aboav-Weaire&apos;s and Lewis&apos; laws and calculation of Self-similarity in weighted planar stochastic lattice.</li>
 	<li>In this study, we show that the block size distribution function in the weighted planar stochastic lattice (WPSL) exhibits dynamic scaling. We also checked if the WPSL obeys the Lewis and the Aboav-Weaire laws by running simulation written in C++ programming language. </li>
     </ul>
    </div>
@@ -109,7 +109,7 @@ A thesis submitted on toward the degree of Master of Science in Theoretical Phys
      </li>
      <li className="header">Role of cholesterol in pulmonary surfactant at ambient and physiological temperatures</li>
 <li className="description">Fazle R Dayeen, Bret A Brandner, Stephen B Hall, David Gidalevitz. Biophysical Journal, Feb 2023, Volume 122, Issue 3, Pages 84a, Publisher: Elsevier.
-  <a href='https://doi.org/10.1016/j.bpj.2022.11.657'>https://doi.org/10.1016/j.bpj.2022.11.657</a>.</li>
+  <a href="https://doi.org/10.1016/j.bpj.2022.11.657">https://doi.org/10.1016/j.bpj.2022.11.657</a>.</li>
  
 <li>We have used grazing incidence X-ray off-specular scattering (GIXOS) and grazing incidence X-ray diffraction (GIXD) to obtain the detailed structural data of the interfacial films. The result indicates a radical loss of the long range order among the hydrocarbon chains and the extensive conversion of ordered to disordered structures. </li>
     </ul>
@@ -127,7 +127,7 @@ A thesis submitted on toward the degree of Master of Science in Theoretical Phys
      <li className="header">Effects of cholesterol on the structure and collapse of DPPC monolayers</li>
 <li className="description">Fazle R Dayeen, Bret A Brandner, Michael W Martynowycz, Kamil Kucuk, Michael J Foody, Wei Bu,
 Stephen B Hall, David Gidalevitz. Biophysical Journal, Sep 2022, Volume 121, Issue 18, Pages 3533-3541, Publisher: Elsevier.
- <a href='https://doi.org/10.1016/j.bpj.2022.07.007'>https://doi.org/10.1016/j.bpj.2022.07.007</a>.</li>
+ <a href="https://doi.org/10.1016/j.bpj.2022.07.007">https://doi.org/10.1016/j.bpj.2022.07.007</a>.</li>
  
 <li>The studies here determined the structural changes by which cholesterol causes faster collapse by films of dipalmitoyl phosphatidylcholine,  and the results suggest that cholesterol promotes adsorption not by altering the unit cell of the ordered phase but by decreasing both its total area and the size of individual crystallites. </li>
     </ul>
@@ -144,7 +144,7 @@ Stephen B Hall, David Gidalevitz. Biophysical Journal, Sep 2022, Volume 121, Iss
      </li>
      <li className="header">The interfacial structure of pulmonary surfactant at physiological temperatures</li>
 <li className="description">Fazle Dayeen, Bret Brandner, Stephen B Hall, David Gidalevitz. Biophysical Journal, Feb 2022, Volume 121, Issue 3, Pages 489a, Publisher: Elsevier.
- <a href='https://doi.org/10.1016/j.bpj.2021.11.351'>https://doi.org/10.1016/j.bpj.2021.11.351</a>.</li>
+ <a href="https://doi.org/10.1016/j.bpj.2021.11.351">https://doi.org/10.1016/j.bpj.2021.11.351</a>.</li>
  
 <li>We used grazing incidence X-ray diffraction to investigate monolayers of the calf lung surfactant extract (CLSE) at the physiological temperatures. The result shows the significant broadening of the GIXD peak and the dramatic decrease in scattered intensity, indicating a radical loss of the long range order among the hydrocarbon chains and the extensive conversion of ordered to disordered structures.</li>
     </ul>
@@ -162,7 +162,7 @@ Stephen B Hall, David Gidalevitz. Biophysical Journal, Sep 2022, Volume 121, Iss
      </li>
      <li className="header">A text mining analysis of the climate change literature in industrial ecology</li>
 <li className="description">
-Fazle Rabbi Dayeen, Abhinav S. Sharma, Sybil Derrible. Journal of Industrial Ecology, Volume 24, Issue 2, April 2020, Pages 276-284. <a href='https://doi.org/10.1111/jiec.12998'>https://doi.org/10.1111/jiec.12998</a>.
+Fazle Rabbi Dayeen, Abhinav S. Sharma, Sybil Derrible. Journal of Industrial Ecology, Volume 24, Issue 2, April 2020, Pages 276-284. <a href="https://doi.org/10.1111/jiec.12998">https://doi.org/10.1111/jiec.12998</a>.
 </li>
  
 <li>We used latent Dirichlet allocation (LDA)—a probabilistic approach to retrieve topics from the abstract of over 35,000 publications on industrial ecology to uncover the main topics (consisting of new terms) that naturally emerge from them. The evolution in time of the importance of some emerging topics is then analyzed on the basis of their relative frequency. Overall, a rapid growth in climate change publications is observed.</li>
@@ -178,7 +178,7 @@ Fazle Rabbi Dayeen, Abhinav S. Sharma, Sybil Derrible. Journal of Industrial Eco
       </ul>
      </li>
      <li className="header">Multi-multifractality, dynamic scaling and neighbourhood statistics in weighted planar stochastic lattice</li>
-<li className="description">F.R. Dayeen, M.K. Hassan, Chaos, Solitons & Fractals, Volume 91, October 2016, Pages 228-234, ISSN 0960-0779. <a href='http://dx.doi.org/10.1016/j.chaos.2016.06.006'>http://dx.doi.org/10.1016/j.chaos.2016.06.006</a>.</li>
+<li className="description">F.R. Dayeen, M.K. Hassan, Chaos, Solitons & Fractals, Volume 91, October 2016, Pages 228-234, ISSN 0960-0779. <a href="http://dx.doi.org/10.1016/j.chaos.2016.06.006">http://dx.doi.org/10.1016/j.chaos.2016.06.006</a>.</li>
  
 <li>We show that the block size distribution function in the weighted planar stochastic lattice (WPSL), which is a multifractal and whose dual is a scale-free network, exhibits dynamic scaling. We verify it numerically using the idea of data-collapse. As the WPSL is a space-filling cellular structure, we thought it was worth checking if the Lewis and the Aboav-Weaire laws are obeyed in the WPSL. </li>
     </ul>
@@ -192,7 +192,7 @@ Fazle Rabbi Dayeen, Abhinav S. Sharma, Sybil Derrible. Journal of Industrial Eco
       </ul>
      </li>
      <li className="header">Self-similarity, Aboav-Weaire’s and Lewis’ laws in weighted planar stochastic lattice</li>
-<li className="description">F.R. Dayeen, M.K. Hassan. <a href='https://arxiv.org/abs/1409.7928'>arXiv:1409.7928v1</a>.</li>
+<li className="description">F.R. Dayeen, M.K. Hassan. <a href="https://arxiv.org/abs/1409.7928">arXiv:1409.7928v1</a>.</li>
  
 <li>In this article, we checked if the WPSL obeys the Lewis and the Aboav-Weaire laws by running simulation written in C++ programming language. And we find that the mean area $\langle A \rangle_k$ of blocks with $k$ neighbours grow linearly up to $k=8$, and hence the Lewis law is obeyed. However, beyond $k&gt;8$ we find that $\langle A \rangle_k$ grows exponentially to a constant value violating the Lewis law.</li>
     </ul>
