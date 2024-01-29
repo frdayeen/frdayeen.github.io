@@ -2,7 +2,7 @@
 import Link from "next/link"
 // import { useRouter } from "next/router"
 import React from 'react'
-import "./Animatedtext.css"
+import "./GradientTextAnimation.css"
 
 
 const CustomizedLinks = ({href, title}:{href:string, title:string}) =>{

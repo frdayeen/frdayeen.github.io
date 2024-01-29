@@ -1,7 +1,7 @@
 import React from "react"
 import "./HomeComponents.css"
 import Link from "next/link"
-import "./Animatedtext.css"
+import "./GradientTextAnimation.css"
 
 
 const HomeComponents = () => {
