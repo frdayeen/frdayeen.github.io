@@ -97,3 +97,25 @@ nav{
    width: 100%;
   }
 } */
+
+p .header {
+  color: #2f2f2f;
+  font-weight: 600;
+ }
+ 
+ p .header span {
+  font-style: italic;
+ }
+ 
+ p .right{
+  float: right;
+  width: 25%;
+  font-weight: 600;
+  
+ }
+ 
+ p .description {
+  font-style: italic;
+ font-size:0.7em;
+ }
+ 

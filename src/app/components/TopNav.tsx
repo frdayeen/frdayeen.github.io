@@ -20,10 +20,10 @@ const TopNav = () => {
         <h1 className="font-Montserrat text-2xl font-bold grad-textanimate">Fazle Rabbi Dayeen</h1>
         <nav>
             <CustomizedLinks href="/" title="Home"/>
-            <CustomizedLinks href="/" title="Biography"/>
-            <CustomizedLinks href="/" title="Research"/>
-            <CustomizedLinks href="/" title="Publications"/>
-            <CustomizedLinks href="/" title="Blogs"/>
+            <CustomizedLinks href="/biography" title="Biography"/>
+            <CustomizedLinks href="/research" title="Research"/>
+            <CustomizedLinks href="/publications" title="Publications"/>
+            <CustomizedLinks href="/blogs" title="Blogs"/>
         </nav>
         
         <nav>
