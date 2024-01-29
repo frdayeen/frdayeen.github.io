@@ -27,7 +27,7 @@ const Navbar = ({ toggle }: { toggle: () => void }) => {
                 />
               </svg>
             </button>
-            <ul className="hidden md:flex gap-x-6 ">
+            {/* <ul className="hidden md:flex gap-x-6 ">
               <li>
                 <Link href="/about">
                   <p>About</p>
@@ -43,9 +43,35 @@ const Navbar = ({ toggle }: { toggle: () => void }) => {
                   <p>Blogs</p>
                 </Link>
               </li>
-            </ul>
+              <li>
+                <Link href="/contacts">
+                  <p>Contact</p>
+                </Link>
+              </li>
+            </ul> */}
             <div className="hidden md:block">
-              {/* <Button /> */}
+            <ul className="hidden md:flex gap-x-6 ">
+              <li>
+                <Link href="/about">
+                  <p>About</p>
+                </Link>
+              </li>
+              <li>
+                <Link href="/services">
+                  <p>Curriculum Vitae</p>
+                </Link>
+              </li>
+              <li>
+                <Link href="/contacts">
+                  <p>Articles</p>
+                </Link>
+              </li>
+              <li>
+                <Link href="/contacts">
+                  <p>My Journey(Bangla)</p>
+                </Link>
+              </li>
+            </ul>
             </div>
           </div>
         </div>

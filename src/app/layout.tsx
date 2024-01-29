@@ -1,9 +1,10 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { montserrat, bodyText, headText } from "./assets/fonts/fonts"
 import "./globals.css";
-import TopNav from "./components/Navigation";
+import Navigation from "./components/Navigation";
+import TopNav from "./components/TopNav";
+import Footer from "./components/Footer";
 
-const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Fazle R. Dayeen",
@@ -17,9 +18,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body className={`${bodyText.className} ${montserrat.variable}`}>
+        {/* <Navigation/> */}
         <TopNav/>
-        {children}</body>
+        {children}
+        <Footer/>
+        </body>
     </html>
   );
 }
