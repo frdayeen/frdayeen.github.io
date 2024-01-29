@@ -17,7 +17,7 @@ const CustomizedLinks = ({href, title}:{href:string, title:string}) =>{
 const TopNav = () => {
   return (
     <header className="w-full px-32 py-8 font-medium flex items-center justify-between">
-        <h1 className="font-Montserrat text-2xl font-bold textanimate">Fazle Rabbi Dayeen</h1>
+        <h1 className="font-Montserrat text-2xl font-bold grad-textanimate">Fazle Rabbi Dayeen</h1>
         <nav>
             <CustomizedLinks href="/" title="Home"/>
             <CustomizedLinks href="/" title="Biography"/>
