@@ -1,0 +1,54 @@
+"use client"
+import React from 'react'
+import {motion} from "framer-motion"
+
+const Quote = {
+  initial:{
+    opacity:1,
+  },
+  animate:{
+    opacity:1,
+    transition:{
+      delay:0.5,
+      staggerChildren: 0.08
+    }
+  }
+}
+
+
+const SingleWord = {
+  initial:{
+    opacity:0,
+    y:50,
+  },
+  animate:{
+    opacity:1,
+    y:0,
+    transition:{
+      duration:1,
+    }
+  }
+}
+
+const AnimateText = ({text}:{text:any}) => {
+  return (
+    <div className="w-full mx-auto py-2 flex items-center justify-center overflow-hidden">
+      <motion.h1 className="font-Montserrat font-bold text-3xl md:text-5xl text-teal-500"
+      variants={Quote}
+      initial="initial"
+      animate="animate"
+      >
+        {
+        text.split(" ").map((word:any, index:any)=>
+        <motion.span key={word+'-'+index} className="inline-block"
+        variants={SingleWord}
+        >
+            {word}&nbsp;
+        </motion.span>
+        )}
+        </motion.h1>
+    </div>
+  )
+}
+
+export default AnimateText
