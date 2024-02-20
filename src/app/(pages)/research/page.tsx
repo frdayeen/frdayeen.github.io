@@ -1,6 +1,13 @@
 import AnimateText from "@/app/components/AnimateText"
 import Research from "@/app/components/Research"
+import { Metadata } from "next";
 import React from 'react'
+
+
+export const metadata: Metadata = {
+  title: "Research",
+  description: "Research Projects by Fazle R. Dayeen",
+};
 
 const Researchpage = () => {
   return (

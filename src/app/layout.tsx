@@ -6,10 +6,19 @@ import TopNav from "./components/TopNav";
 import Footer from "./components/Footer";
 
 
+
 export const metadata: Metadata = {
-  title: "Fazle R. Dayeen",
-  description: "Life of Fazle R. Dayeen",
-};
+  title: 
+  {
+    default: "Fazle R. Dayeen",
+    template: "%s | Fazle R. Dayeen"
+  },
+  description: "Portfolio of Fazle Rabbi Dayeen",
+  twitter: {
+    card: "summary_large_image"
+  },
+  metadataBase: new URL('https://frdayeen.github.io'),// change it when move to a new domain
+}
 
 export default function RootLayout({
   children,

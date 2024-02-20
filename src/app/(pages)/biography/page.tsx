@@ -1,5 +1,11 @@
 import AnimateText from "@/app/components/AnimateText"
+import { Metadata } from "next";
 import React from 'react'
+
+export const metadata: Metadata = {
+  title: "Biography",
+  description: "Biography of Fazle R. Dayeen",
+};
 
 const Biographypage = () => {
   return (
