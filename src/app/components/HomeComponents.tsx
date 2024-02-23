@@ -26,7 +26,7 @@ Chicago, IL<br/><br/>
 <div className="col-span-10 md:col-span-5">
  <div className="mx-auto px-4 py-2 overflow-hidden">
   {/* <h1 className="font-Montserrat font-bold text-3xl md:text-5xl">Doctoral researcher in Material Science. </h1> */}
-<AnimateText text="Doctoral researcher in Physics"/>
+<AnimateText text="Doctoral Researcher in Physics"/>
 <div className="flex overflow-hidden pt-10 font-Montserrat font-bold text-xl md:text-2xl">
   <span className="base-text">Expert in </span>
   <div className="ml-1 grid text-indigo-500">
