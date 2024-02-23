@@ -32,7 +32,7 @@ Chicago, IL<br/><br/>
   <div className="ml-1 grid text-indigo-500">
     <span className="word"> Material Science</span>
     <span className="word"> Mathematical Analysis</span>
-    <span className="word">MATLAB, Python & C++</span>
+    <span className="word">MATLAB, Python &amp; C++</span>
   </div>
 </div>
                 
