@@ -51,7 +51,7 @@ const TopNav = () => {
                 <CustomizedLinks href="/biography" title="Biography" />
                 <CustomizedLinks href="/research" title="Research" />
                 <CustomizedLinks href="/publications" title="Publications" />
-                <CustomizedLinks href="/blogs" title="Blogs" />
+                <CustomizedLinks href="https://www.frdayeen.com/search/label/Notes" title="Blogs" />
             </nav>
 
             <nav className="hidden lg:flex">
